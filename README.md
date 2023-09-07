@@ -13,3 +13,5 @@ make
 需要启动mysql服务
 
 在nigix/conf/nginx.conf中修改允许连接的服务器ip 和监听端口
+
+在chat下直接运行autobuild.sh文件可以自动进行编译
